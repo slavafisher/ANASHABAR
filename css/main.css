@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Ravi+Prakash');
+body {
+background-color: #f2f2f2;
+font-family: "Bungee Inline";
+font-weight: 300;
+font-size: 16px;
+color: #555;
+ -webkit-font-smothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: "Bungee Inline";
+font-weight: 300;
+color: #333;
+}
+
+p {
+	font-size: 24px;
+	line-height: 20px;
+	margin-bottom: 25px;
+	font-family: "Ravi Prakash";
+
+}
+
+.centered {
+	text-align: center;
+}
+
+a {
+	color: #f85c37;
+}
+
+a:hover, a:focus {
+	color: #7b7b7b;
+	text-decoration: none;
+	outline: 0;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.navbar {
+	font-weight: 800;
+	font-size: 14px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.navbar-inverse {
+	background: #000000;
+	border-color: #2d2d2d;
+}
+
+.navbar-inverse .navbar-nav > .active  > a {
+	background-color: #006400;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #999;
+	font-weight: bolder;
+	font-size: 22px;
+	letter-spacing: 1px;
+	
+}
+
+#headerwrap{
+	background: url(../img/top.jpg) no-repeat center top;
+	margin-top: -10px;
+	padding-top: 20px;
+	text-align: center;
+	min-height: 500px;
+	background-color: green;
+	width: 100%;
+	background-attachment: ralative;
+	background-position: center-center;
+	background-size: cover;
+	background-size: 100%;
+}
+
+#headerwrap h1 {
+	margin-top: 100px;
+	font-size: 70px;
+	font-weight: 300;
+	letter-spacing: 3px;
+	color: white;
+}
+
+#headerwrap h2 {
+    background-color: black;
+    font-size: 40px;
+    opacity: 0.4;
+    letter-spacing: 2px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.w {
+	padding-top: 0px;
+	width: 100%;
+	font-size: 20px;
+	color: black;
+}
+
+.w h4 {
+	font-size: 25px;
+
+}
+
+#dg {
+	background: url(../img/deck.jpg) no-repeat center bottom;
+	padding-top: 70px;
+	text-align: center;
+	padding-bottom: 70px;
+	background-attachment: relative;
+	background-size: cover;
+}
+
+#dg h4 {
+	font-size: 32px;
+	color: white;
+	background: #006400;
+	width: 33%;
+	margin-left: 33%;
+}
+
+.wb {
+	background: url(../img/barr.jpg) no-repeat;
+	padding-top: 35px;
+	width: 100%;
+	min-height: 700px ;
+	background-attachment: ralative;
+	background-color: green;
+	background-size: cover;
+	background-size: 100%;
+
+}
+
+.wb h4 {
+	    font-size: 40px;
+    letter-spacing: 3px;
+    background-color: #006400;
+    color: white;
+}
+
+#lg {
+	background: url(../img/whiskey.jpg) no-repeat center center;
+	background-size: cover;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+#lg h4 {
+	font-size: 32px;
+	background: #006400;
+	color: white;
+	width: 33%;
+	margin-left: 33%;
+}
+
+#g {
+	background: #006400;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-bottom: 30px;
+	color: whitesmoke;
+}
+
+#f {
+	background: #000000;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+#f i {
+	color: #bdbdbd;
+	font-size: 30px;
+	padding: 20px;
+}
+
+#f i:hover {
+	color: #006400;
+}
+
+.tilt {
+	margin: auto;
+	padding-top: 15px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.tilt:hover {
+	margin: auto;
+	padding-top: 15px;
+	-webkit-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg);
+	-o-transform: rotate(-10deg);
+	-ms-transform: rotate(-10deg);
+	transform: rotate(-10deg);
+}
+img {
+	width: 150px;
+}
+
+.ab {
+	height: 500px;
+background: url(../img/weed.jpg) no-repeat center center;
+	padding-top: 70px;
+	background-size: cover;
+	background-size: 100%;
+	text-align: center;
+	padding-bottom: 70px;
+	background-attachment: relative;
+	background-size: cover;
+}
+
+#weed {
+	background: url() no-repeat center center;
+	width: 100%;
+	color: white;
+	background-size: cover;
+	background-size: 100%;
+	text-align: center;
+	background-attachment: relative;
+	background-size: cover;
+}
+
+#map {
+	height: 400px;
+	opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
